@@ -3,6 +3,7 @@ About r-antiword-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-antiword-feedstock/blob/main/LICENSE.txt)
 
+
 About r-antiword
 ----------------
 
@@ -11,6 +12,7 @@ Home: https://github.com/ropensci/antiword#readme (devel) http://www.winfield.de
 Package license: GPL-2.0-only
 
 Summary: Wraps the 'AntiWord' utility to extract text from Microsoft Word documents. The utility only supports the old 'doc' format, not the new xml based 'docx' format. Use the 'xml2' package to read the latter.
+
 About r-antiword
 ----------------
 
@@ -153,7 +155,7 @@ available continuous integration services. Thanks to the awesome service provide
 [CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/),
 [Drone](https://cloud.drone.io/welcome), and [TravisCI](https://travis-ci.com/)
 it is possible to build and upload installable packages to the
-[conda-forge](https://anaconda.org/conda-forge) [Anaconda-Cloud](https://anaconda.org/)
+[conda-forge](https://anaconda.org/conda-forge) [anaconda.org](https://anaconda.org/)
 channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
